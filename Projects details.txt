@@ -1,0 +1,57 @@
+Data Analyst::
+
+Final Projects for Data Analyst 
+
+Project List
+
+1) Perform EDA on Zomato Dataset
+
+2) Create a Dashboards using power BI on Zomato Dataset
+
+3) Perform EDA on  Advertising dataset 
+
+4) Perform the EDA on McDonald's Dataset
+
+5) Create a Power Bi Dashboard on McDonald's Dataset
+
+6) Perform the EDA on Sales Conversion Optimization
+
+7) Create a Power BI Dashboard on HR Analystics 
+
+
+
+Dataset links:
+
+Zomato Dataset: https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data
+
+Advertising Dataset: https://www.kaggle.com/datasets/tawfikelmetwally/advertising-dataset
+
+McDonald's Dataset: https://www.kaggle.com/datasets/mcdonalds/nutrition-facts
+
+Sales Conversion Optimization Dataset: https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking
+
+HR Analytics Dataset: https://www.kaggle.com/datasets/saadharoon27/hr-analytics-dataset
+
+
+
+
+Data Science:
+
+1) Fake News using NLP
+
+2) Breast Cancer Classification Project in Deep Learning
+
+3) Customer Segmentation using Machine Learning
+
+4) Sale Predictions using any five Machine Learning
+
+
+Datasets
+
+1) Fake News: https://www.kaggle.com/datasets/hassanamin/textdb3
+
+2) Breast Cancer : https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
+
+3) Customer Segmentation: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+4) Sale Predictions: https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data
